@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="info">Informações</string>
+
+    <!-- PAGE HOME -->
+    <string name="search_company">Buscar Empresa</string>
+    <string name="search_botton">Buscar</string>
+    <string name="url_link_procon">Procon Estadual Da paraiba</string>
+    <string name="listLink"><u>Listar Todos</u></string>
+    <string name="message_not_search_company">Empresa Sem Reclamações Durante o ano de 2016!!!</string>
+    <string name="attended">Atendidas</string>
+    <string name="unanswered">Não Atendidas</string>
+    <string name="total">Total</string>
+
+
+    <string-array name="Razao_Social">
+        <item>Energisa</item>
+        <item>OI</item>
+        <item>Cagepa</item>
+        <item>Banco da Caixa Economica</item>
+        <item>Tim</item>
+        <item>Samsung</item>
+        <item>Sky</item>
+        <item>Banco do Brasil</item>
+        <item>Motorola</item>
+        <item>Multilaser</item>
+        <item>Britania</item>
+        <item>Telemar</item>
+        <item>Banco Bradesco</item>
+        <item>Banco Itaúcard</item>
+        <item>Avista</item>
+        <item>Lojas Americana</item>
+        <item>Banco BMG</item>
+        <item>N.Claudiano e Cia</item>
+        <item>Claro</item>
+        <item>Vivo</item>
+        <item>B2W</item>
+        <item>Magazine Luiza</item>
+        <item>Positivo</item>
+        <item>Virginia Surety</item>
+        <item>CCE</item>
+        <item>Eletrolux</item>
+        <item>Cardif</item>
+        <item>Banco Santander</item>
+        <item>Whirpool</item>
+        <item>BV Financeira</item>
+    </string-array>
+    <string-array name="Empresas">
+        <item>Energisa Paraiba - Distribuidora de Energia S/A</item>
+        <item>TNL PCS S/A - OI</item>
+        <item>Cia de Água e Esgoto do Estado da Paraiba</item>
+        <item>Caixa Econômica Federal</item>
+        <item>Tim celular S.A Telecomunicações</item>
+        <item>Samsung Eletronica da Amazôniia LTDA</item>
+        <item>Sky Brasil Serviços LTDA</item>
+        <item>Banco do Brasil S/A</item>
+        <item>Motorola do Brasil LTDA</item>
+        <item>Multilaser Industrial LTDA</item>
+        <item>Britania Eletrodomestico LTDA</item>
+        <item>Telemar Norte Leste S/A</item>
+        <item>Banco Bradesco S/A</item>
+        <item>Banco Itaúcard S/A</item>
+        <item>Avista S/A Administradora de Cartão de Credito</item>
+        <item>Lojas Americana S/A</item>
+        <item>Banco BMG S/A</item>
+        <item>N.Claudiano e Cia LTDA</item>
+        <item>Claro S.A</item>
+        <item>Vivo S.A</item>
+        <item>B2W Companhia Global do Varejo</item>
+        <item>Magazine Luiza S/A</item>
+        <item>Positivo Informatica S/A</item>
+        <item>Virginia Surety Companhia de Seguros no Brasil</item>
+        <item>CCE da Amazona S/A</item>
+        <item>Eletrolux do Brasil S/A</item>
+        <item>Cardif do Brasil Seguros e Garantias S/A</item>
+        <item>Banco Santander Brasil S/A</item>
+        <item>Whirpool S/A</item>
+        <item>BV Financeira S/A Credito Financiamento e Invest.</item>
+    </string-array>
+    <string-array name="Ranking">
+        <item>1º</item>
+        <item>2º</item>
+        <item>3º</item>
+        <item>4º</item>
+        <item>5º</item>
+        <item>6º</item>
+        <item>7º</item>
+        <item>8º</item>
+        <item>9º</item>
+        <item>10º</item>
+        <item>11º</item>
+        <item>12º</item>
+        <item>13º</item>
+        <item>14º</item>
+        <item>15º</item>
+        <item>16º</item>
+        <item>17º</item>
+        <item>18º</item>
+        <item>19º</item>
+        <item>20º</item>
+        <item>21º</item>
+        <item>22º</item>
+        <item>23º</item>
+        <item>24º</item>
+        <item>25º</item>
+        <item>26º</item>
+        <item>27º</item>
+        <item>28º</item>
+        <item>29º</item>
+        <item>30º</item>
+    </string-array>
+    <string-array name="Atendidas">
+        <item>143</item>
+        <item>77</item>
+        <item>46</item>
+        <item>40</item>
+        <item>41</item>
+        <item>39</item>
+        <item>34</item>
+        <item>24</item>
+        <item>42</item>
+        <item>37</item>
+        <item>38</item>
+        <item>32</item>
+        <item>25</item>
+        <item>27</item>
+        <item>16</item>
+        <item>18</item>
+        <item>18</item>
+        <item>23</item>
+        <item>14</item>
+        <item>26</item>
+        <item>11</item>
+        <item>22</item>
+        <item>24</item>
+        <item>25</item>
+        <item>17</item>
+        <item>23</item>
+        <item>21</item>
+        <item>14</item>
+        <item>17</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="NaoAtendidas">
+        <item>6</item>
+        <item>11</item>
+        <item>6</item>
+        <item>9</item>
+        <item>6</item>
+        <item>7</item>
+        <item>7</item>
+        <item>21</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>2</item>
+        <item>8</item>
+        <item>4</item>
+        <item>14</item>
+        <item>11</item>
+        <item>10</item>
+        <item>5</item>
+        <item>13</item>
+        <item>1</item>
+        <item>15</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+        <item>6</item>
+        <item>0</item>
+        <item>1</item>
+        <item>7</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="Totais">
+        <item>149</item>
+        <item>88</item>
+        <item>52</item>
+        <item>49</item>
+        <item>47</item>
+        <item>46</item>
+        <item>46</item>
+        <item>45</item>
+        <item>44</item>
+        <item>41</item>
+        <item>39</item>
+        <item>34</item>
+        <item>33</item>
+        <item>31</item>
+        <item>30</item>
+        <item>29</item>
+        <item>28</item>
+        <item>28</item>
+        <item>27</item>
+        <item>27</item>
+        <item>26</item>
+        <item>25</item>
+        <item>25</item>
+        <item>25</item>
+        <item>23</item>
+        <item>23</item>
+        <item>22</item>
+        <item>21</item>
+        <item>20</item>
+        <item>19</item>
+    </string-array>
+</resources>

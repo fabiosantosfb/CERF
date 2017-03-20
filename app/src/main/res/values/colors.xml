@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAmarelo">#dcd100</color>
+    <color name="colorVerde">#ab12b100</color>
+    <color name="colorvermelho">#addc0004</color>
+    <color name="colorLaranja">#acff6200</color>
+    <color name="colorAzul">#ad000fdc</color>
+    <color name="colorBackground">#0c1031</color>
+    <color name="colorBackgroundSearch">#89fdfdfd</color>
+    <color name="colorBackgroundSearchEscro">#e0fdfdfd</color>
+    <color name="colorCinzar">#529f9f9f</color>
+    <color name="colorCinzarEscuro">#d19f9f9f</color>
+    <color name="colorBrancoTransp">#c4ffffff</color>
+</resources>

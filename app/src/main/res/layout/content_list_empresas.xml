@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:padding="@dimen/padding_title_five"
+        android:layout_height="wrap_content"
+        android:background="@color/colorCinzar">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:background="@color/colorAmarelo"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_marginTop="@dimen/padding_title_three"
+                android:layout_marginBottom="@dimen/padding_title_three">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="1º"
+                    android:id="@+id/textViewRancking"
+                    android:textSize="@dimen/size_font_twenty"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:padding="@dimen/padding_title_four"
+                android:layout_height="wrap_content"
+                android:layout_weight="6">
+                <TextView
+                    android:background="@color/colorAzul"
+                    android:text="BV Financeira S/A Credito Financiamento e Invest"
+                    android:padding="@dimen/padding"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/textViewNomeEmpresa"
+                    android:textSize="@dimen/size_font_twenty" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:paddingTop="@dimen/padding_title_three"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:layout_weight="1">
+
+                        <TextView
+                            android:background="@color/colorVerde"
+                            android:text="@string/attended"
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textViewAtendidaTitulo"
+                            android:textSize="@dimen/size_font_twelve" />
+                        <TextView
+                            android:layout_marginTop="@dimen/padding_title_three"
+                            android:background="@color/colorVerde"
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/textViewAtendida"
+                            android:textSize="@dimen/size_font_twenty" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:paddingRight="@dimen/padding_title_three"
+                        android:paddingLeft="@dimen/padding_title_three"
+                        android:layout_weight="1">
+
+                        <TextView
+                            android:background="@color/colorLaranja"
+                            android:text="@string/unanswered"
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textViewNaoAtendidaTitulo"
+                            android:textSize="@dimen/size_font_twelve"/>
+                        <TextView
+                            android:layout_marginTop="@dimen/padding_title_three"
+                            android:background="@color/colorLaranja"
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/textViewNaoAtendida"
+                            android:textSize="@dimen/size_font_twenty"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_weight="1">
+
+                        <TextView
+                            android:background="@color/colorvermelho"
+                            android:text="Total"
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textViewTotalTitulo"
+                            android:textSize="@dimen/size_font_twelve" />
+
+                        <TextView
+                            android:layout_marginTop="@dimen/padding_title_three"
+                            android:background="@color/colorvermelho"
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/textViewTotal"
+                            android:textSize="@dimen/size_font_twenty" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

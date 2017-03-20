@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="padding_search">10dp</dimen>
+    <dimen name="padding_link">15dp</dimen>
+
+    <!-- PAGE DASDOS EMPRESA -->
+    <dimen name="padding_title_five">3dp</dimen>
+    <dimen name="padding_title_four">2dp</dimen>
+    <dimen name="padding_title_three">1dp</dimen>
+
+    <dimen name="size_font_twelve">9sp</dimen>
+    <dimen name="size_font_fifteen">10sp</dimen>
+    <dimen name="size_font_eighteen">12sp</dimen>
+    <dimen name="size_font_twenty">15sp</dimen>
+</resources>
